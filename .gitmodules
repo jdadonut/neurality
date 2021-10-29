@@ -1,0 +1,3 @@
+[submodule "stock"]
+	path = stock
+	url = https://github.com/jdadonut/RNN-Trading-bot
